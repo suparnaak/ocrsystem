@@ -1,0 +1,4 @@
+node_modules/
+.env
+#google-vision-key.json
+ocr-detection-464708-580a43304cbf.json
