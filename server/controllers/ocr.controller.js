@@ -5,7 +5,7 @@ import {
   isValidAadhaar,
   isSwapped,
   isDuplicateContent,
-  isAadhaarNumberMismatch
+  isAadhaarNumberMismatch,
 } from "../utils/aadhaarValidation.js";
 
 export const processAadhaarOCR = async (req, res) => {
